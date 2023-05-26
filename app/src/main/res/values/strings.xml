@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celebrare</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_from_device">choose from Device</string>
+    <string name="add_image_icon">Add Image / Icon</string>
+    <string name="uploaded_image">Uploaded Image</string>
+    <string name="orignal">Orignal</string>
+    <string name="use_this_image">Use this image</string>
+</resources>
